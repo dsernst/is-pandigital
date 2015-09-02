@@ -31,3 +31,12 @@ console.log(isPandigital(1234, 4)); // true
 console.log(isPandigital(425631, 6)); // true
 console.log(isPandigital(918273645, 2)); // false
 ```
+
+## Tests
+
+To run the test suite, first install the dependencies, then run `npm test`:
+
+```
+$ npm install
+$ npm test
+```
