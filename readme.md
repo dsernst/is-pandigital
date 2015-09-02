@@ -21,5 +21,12 @@ console.log(isPandigital(192384576)); // true
 console.log(isPandigital(918273645)); // true
 console.log(isPandigital(9136485234)); // false
 console.log(isPandigital(9183645)); // false
+```
 
+Optionally, pass in a second number to specify a base (defaults to 9):
+
+```js
+console.log(isPandigital(1234, 4)); // true
+console.log(isPandigital(425631, 6)); // true
+console.log(isPandigital(918273645, 2)); // false
 ```
