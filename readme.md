@@ -1,6 +1,7 @@
 # is-pandigital
 
 [![NPM Version](https://img.shields.io/npm/v/is-pandigital.svg)](https://www.npmjs.com/package/is-pandigital)
+[![Build Status](https://travis-ci.org/dsernst/is-pandigital.svg?branch=master)](https://travis-ci.org/dsernst/is-pandigital)
 
 Test if a number is [pandigital](https://en.wikipedia.org/wiki/Pandigital_number): made up of the digits 1-9, once each
 
