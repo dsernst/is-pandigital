@@ -4,7 +4,7 @@
   "description": "Test if a number is pandigital (made up of the digits 1-9, once each)",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha tests.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
